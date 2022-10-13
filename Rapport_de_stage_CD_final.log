@@ -1,0 +1,989 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.10.7)  13 OCT 2022 14:16
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"c:/Users/cypri/Documents/M2 Carthag√©o/Rapport_de_stage_IHEMI/Rapport_de_stage_CD_final.tex"
+(c:/Users/cypri/Documents/M2 Carthag√©o/Rapport_de_stage_IHEMI/Rapport_de_stage_CD_final.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-08-30> (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+) (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2022/09/17 3.80 The Babel package
+\babel@savecnt=\count194
+\U@D=\dimen139
+\l@unhyphenated=\language79
+ (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count195
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french.ldf
+Language: french 2022/04/18 v3.5n French support from the babel system
+Package babel Info: Hyphen rules for 'acadian' set to \l@french
+(babel)             (\language22). Reported on input line 91.
+Package babel Info: Hyphen rules for 'canadien' set to \l@french
+(babel)             (\language22). Reported on input line 92.
+\FB@nonchar=\count196
+Package babel Info: Making : an active character on input line 430.
+Package babel Info: Making ; an active character on input line 431.
+Package babel Info: Making ! an active character on input line 432.
+Package babel Info: Making ? an active character on input line 433.
+\FBguill@level=\count197
+\FBold@everypar=\toks18
+\FB@Mht=\dimen140
+\mc@charclass=\count198
+\mc@charfam=\count199
+\mc@charslot=\count266
+\std@mcc=\count267
+\dec@mcc=\count268
+\listindentFB=\dimen141
+\descindentFB=\dimen142
+\labelindentFB=\dimen143
+\labelwidthFB=\dimen144
+\leftmarginFB=\dimen145
+\parindentFFN=\dimen146
+\FBfnindent=\dimen147
+)) (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/fr\babel-french.tex
+Package babel Info: Importing font and identification data for french
+(babel)             from babel-fr.ini. Reported on input line 11.
+) (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty) (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+) (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+ (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)) (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count269
+)) (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
+) (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/appendix\appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count270
+\c@@ppsavesec=\count271
+\c@@ppsaveapp=\count272
+) (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2022/05/22 v0.5v Insert pages of external PDF documents (AM)
+ (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+) (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count273
+\calc@Bcount=\count274
+\calc@Adimen=\dimen150
+\calc@Bdimen=\dimen151
+\calc@Askip=\skip49
+\calc@Bskip=\skip50
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count275
+\calc@Cskip=\skip51
+) (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen152
+\ESO@tempdimb=\dimen153
+ (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+ (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+ (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex-dev/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+))
+\AM@pagewidth=\dimen154
+\AM@pageheight=\dimen155
+\AM@fboxrule=\dimen156
+ (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
+File: pppdftex.def 2022/05/22 v0.5v Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count276
+\AM@pagebox=\box51
+\AM@global@opts=\toks20
+\AM@pagecnt=\count277
+\AM@toc@title=\toks21
+\c@AM@survey=\count278
+\AM@templatesizebox=\box52
+) (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2022/01/07 v1.5 Sub-captions (AR)
+ (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+ (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen157
+\captionmargin=\dimen158
+\caption@leftmargin=\dimen159
+\caption@rightmargin=\dimen160
+\caption@width=\dimen161
+\caption@indent=\dimen162
+\caption@parindent=\dimen163
+\caption@hangindent=\dimen164
+Package caption Info: Standard document class detected.
+Package caption Info: french babel package is loaded.
+)
+\c@caption@flags=\count279
+\c@continuedfloat=\count280
+)
+\c@subfigure=\count281
+\c@subtable=\count282
+) (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2022/07/12 v3.18b programmable bibliographies (PK/MW)
+ (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count283
+ (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+)) (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count284
+\c@listtotal=\count285
+\c@listcount=\count286
+\c@liststart=\count287
+\c@liststop=\count288
+\c@citecount=\count289
+\c@citetotal=\count290
+\c@multicitecount=\count291
+\c@multicitetotal=\count292
+\c@instcount=\count293
+\c@maxnames=\count294
+\c@minnames=\count295
+\c@maxitems=\count296
+\c@minitems=\count297
+\c@citecounter=\count298
+\c@maxcitecounter=\count299
+\c@savedcitecounter=\count300
+\c@uniquelist=\count301
+\c@uniquename=\count302
+\c@refsection=\count303
+\c@refsegment=\count304
+\c@maxextratitle=\count305
+\c@maxextratitleyear=\count306
+\c@maxextraname=\count307
+\c@maxextradate=\count308
+\c@maxextraalpha=\count309
+\c@abbrvpenalty=\count310
+\c@highnamepenalty=\count311
+\c@lownamepenalty=\count312
+\c@maxparens=\count313
+\c@parenlevel=\count314
+\blx@tempcnta=\count315
+\blx@tempcntb=\count316
+\blx@tempcntc=\count317
+\c@blx@maxsection=\count318
+\blx@maxsegment@0=\count319
+\blx@notetype=\count320
+\blx@parenlevel@text=\count321
+\blx@parenlevel@foot=\count322
+\blx@sectionciteorder@0=\count323
+\blx@sectionciteorderinternal@0=\count324
+\blx@entrysetcounter=\count325
+\blx@biblioinstance=\count326
+\labelnumberwidth=\skip52
+\labelalphawidth=\skip53
+\biblabelsep=\skip54
+\bibitemsep=\skip55
+\bibnamesep=\skip56
+\bibinitsep=\skip57
+\bibparsep=\skip58
+\bibhang=\skip59
+\blx@bcfin=\read3
+\blx@bcfout=\write3
+\blx@langwohyphens=\language80
+\c@mincomprange=\count327
+\c@maxcomprange=\count328
+\c@mincompwidth=\count329
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+ (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2022/07/12 v3.18b biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex citestyle data model...
+Package biblatex Info: ... file 'authoryear.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count330
+\c@savedafterword=\count331
+\c@annotator=\count332
+\c@savedannotator=\count333
+\c@author=\count334
+\c@savedauthor=\count335
+\c@bookauthor=\count336
+\c@savedbookauthor=\count337
+\c@commentator=\count338
+\c@savedcommentator=\count339
+\c@editor=\count340
+\c@savededitor=\count341
+\c@editora=\count342
+\c@savededitora=\count343
+\c@editorb=\count344
+\c@savededitorb=\count345
+\c@editorc=\count346
+\c@savededitorc=\count347
+\c@foreword=\count348
+\c@savedforeword=\count349
+\c@holder=\count350
+\c@savedholder=\count351
+\c@introduction=\count352
+\c@savedintroduction=\count353
+\c@namea=\count354
+\c@savednamea=\count355
+\c@nameb=\count356
+\c@savednameb=\count357
+\c@namec=\count358
+\c@savednamec=\count359
+\c@translator=\count360
+\c@savedtranslator=\count361
+\c@shortauthor=\count362
+\c@savedshortauthor=\count363
+\c@shorteditor=\count364
+\c@savedshorteditor=\count365
+\c@labelname=\count366
+\c@savedlabelname=\count367
+\c@institution=\count368
+\c@savedinstitution=\count369
+\c@lista=\count370
+\c@savedlista=\count371
+\c@listb=\count372
+\c@savedlistb=\count373
+\c@listc=\count374
+\c@savedlistc=\count375
+\c@listd=\count376
+\c@savedlistd=\count377
+\c@liste=\count378
+\c@savedliste=\count379
+\c@listf=\count380
+\c@savedlistf=\count381
+\c@location=\count382
+\c@savedlocation=\count383
+\c@organization=\count384
+\c@savedorganization=\count385
+\c@origlocation=\count386
+\c@savedoriglocation=\count387
+\c@origpublisher=\count388
+\c@savedorigpublisher=\count389
+\c@publisher=\count390
+\c@savedpublisher=\count391
+\c@language=\count392
+\c@savedlanguage=\count393
+\c@origlanguage=\count394
+\c@savedoriglanguage=\count395
+\c@pageref=\count396
+\c@savedpageref=\count397
+\shorthandwidth=\skip60
+\shortjournalwidth=\skip61
+\shortserieswidth=\skip62
+\shorttitlewidth=\skip63
+\shortauthorwidth=\skip64
+\shorteditorwidth=\skip65
+\locallabelnumberwidth=\skip66
+\locallabelalphawidth=\skip67
+\localshorthandwidth=\skip68
+\localshortjournalwidth=\skip69
+\localshortserieswidth=\skip70
+\localshorttitlewidth=\skip71
+\localshortauthorwidth=\skip72
+\localshorteditorwidth=\skip73
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+ (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
+\c@textcitecount=\count398
+\c@textcitetotal=\count399
+\c@textcitemaxnames=\count400
+\c@biburlbigbreakpenalty=\count401
+\c@biburlbreakpenalty=\count402
+\c@biburlnumpenalty=\count403
+\c@biburlucpenalty=\count404
+\c@biburllcpenalty=\count405
+\biburlbigskip=\muskip17
+\biburlnumskip=\muskip18
+\biburlucskip=\muskip19
+\biburllcskip=\muskip20
+\c@smartand=\count406
+)
+Package biblatex Info: Trying to load bibliography style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.bbx' found.
+ (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\authoryear.bbx
+File: authoryear.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+ (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
+File: standard.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count407
+\c@bbx:relatedtotal=\count408
+))
+Package biblatex Info: Trying to load citation style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.cbx' found.
+ (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\authoryear.cbx
+File: authoryear.cbx 2022/07/12 v3.18b biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+ (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2022-08-30 L3 programming layer (loader) 
+ (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-08-30 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count409
+\l__pdf_internal_box=\box53
+))
+Package biblatex Info: ... and expl3
+(biblatex)             2022-08-30 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+ (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+Package: xparse 2022-06-22 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2022/07/12 v3.18b expl3 case changing code for biblatex
+))
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+\@quotelevel=\count410
+\@quotereset=\count411
+(Rapport_de_stage_CD_final.aux)
+\openout1 = `Rapport_de_stage_CD_final.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Info: Redefining \degres on input line 44.
+LaTeX Info: Redefining \up on input line 44.
+ (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count412
+\scratchdimen=\dimen165
+\scratchbox=\box54
+\nofMPsegments=\count413
+\nofMParguments=\count414
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count415
+\MPscratchDim=\dimen166
+\MPnumerator=\count416
+\makeMPintoPDFobject=\count417
+\everyMPtoPDFconversion=\toks23
+) (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+)) (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+ (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+Package biblatex Info: Trying to load language 'french'...
+Package biblatex Info: ... file 'french.lbx' found.
+ (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\french.lbx
+File: french.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout3 = `Rapport_de_stage_CD_final.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'Rapport_de_stage_CD_final.bbl' not found.
+
+No file Rapport_de_stage_CD_final.bbl.
+Package biblatex Info: Reference section=0 on input line 44.
+Package biblatex Info: Reference segment=0 on input line 44.
+(pagedetitre.tex
+<salledecrise_titlepage.jpg, id=1, 919.63576pt x 595.62524pt>
+File: salledecrise_titlepage.jpg Graphic file (type jpg)
+<use salledecrise_titlepage.jpg>
+Package pdftex.def Info: salledecrise_titlepage.jpg  used on input line 16.
+(pdftex.def)             Requested size: 327.74895pt x 212.27094pt.
+<ensg.png, id=2, 149.358pt x 77.8107pt>
+File: ensg.png Graphic file (type png)
+<use ensg.png>
+Package pdftex.def Info: ensg.png  used on input line 29.
+(pdftex.def)             Requested size: 62.10126pt x 32.35257pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 30.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 30.
+<pariscite.jpg, id=4, 1842.885pt x 702.625pt>
+File: pariscite.jpg Graphic file (type jpg)
+<use pariscite.jpg>
+Package pdftex.def Info: pariscite.jpg  used on input line 33.
+(pdftex.def)             Requested size: 72.45041pt x 27.61775pt.
+<sorbonne.png, id=5, 353.82187pt x 112.92188pt>
+File: sorbonne.png Graphic file (type png)
+<use sorbonne.png>
+Package pdftex.def Info: sorbonne.png  used on input line 37.
+(pdftex.def)             Requested size: 72.45041pt x 23.12155pt.
+ [1
+
+{C:/Users/cypri/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./salledecrise_titlepage.jpg> <./ensg.png> <./pariscite.jpg> <./sorbonne.png>]) [1] [1]
+No file Rapport_de_stage_CD_final.toc.
+\tf@toc=\write4
+\openout4 = `Rapport_de_stage_CD_final.toc'.
+
+[1
+
+] [2] [3
+
+] [4] [5] [6] [7
+
+] [8]
+
+LaTeX Warning: Citation 'Decret20091321282009' on page 9 undefined on input line 121.
+
+
+LaTeX Warning: Citation 'ihemiOrganisationIHEMI' on page 9 undefined on input line 125.
+
+[9
+
+]
+
+LaTeX Warning: Reference `fig1' on page 10 undefined on input line 132.
+
+<figures/carte_situ.jpg, id=53, 1737.49126pt x 2475.2475pt>
+File: figures/carte_situ.jpg Graphic file (type jpg)
+<use figures/carte_situ.jpg>
+Package pdftex.def Info: figures/carte_situ.jpg  used on input line 136.
+(pdftex.def)             Requested size: 327.74895pt x 466.9027pt.
+[10] [11 <./figures/carte_situ.jpg>] [12]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 170.
+ (C:\Users\cypri\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 170.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 170.
+ [13
+
+]
+
+LaTeX Warning: Citation 'livreblanc' on page 14 undefined on input line 191.
+
+[14]
+<figures/mediatraining.jpg, id=74, 4175.6pt x 1879.02pt>
+File: figures/mediatraining.jpg Graphic file (type jpg)
+<use figures/mediatraining.jpg>
+Package pdftex.def Info: figures/mediatraining.jpg  used on input line 207.
+(pdftex.def)             Requested size: 327.74895pt x 147.48619pt.
+ [15]
+
+LaTeX Warning: Reference `fig2' on page 16 undefined on input line 212.
+
+
+LaTeX Warning: Reference `fig3' on page 16 undefined on input line 216.
+
+<figures/salledecrise.jpg, id=78, 1541.76pt x 2055.68pt>
+File: figures/salledecrise.jpg Graphic file (type jpg)
+<use figures/salledecrise.jpg>
+Package pdftex.def Info: figures/salledecrise.jpg  used on input line 220.
+(pdftex.def)             Requested size: 241.49895pt x 321.98338pt.
+[16 <./figures/mediatraining.jpg>] [17 <./figures/salledecrise.jpg>] [18] [19
+
+] [20]
+
+LaTeX Warning: Citation 'borrazolivierQuEstceQu2020' on page 21 undefined on input line 252.
+
+
+LaTeX Warning: Citation 'lagadecGESTIONCRISES' on page 21 undefined on input line 253.
+
+[21
+
+]
+
+LaTeX Warning: Citation 'lagadecGESTIONCRISES' on page 22 undefined on input line 257.
+
+
+Overfull \hbox (20.55656pt too wide) in paragraph at lines 257--258
+\T1/cmr/m/n/10 de crise, qu'il convient d'iso-ler de la crise elle-mÍme ([])).
+ []
+
+
+LaTeX Warning: Citation 'a12h31IncendieUsineLubrizol2019' on page 22 undefined on input line 259.
+
+
+LaTeX Warning: Reference `fig4' on page 22 undefined on input line 261.
+
+
+LaTeX Warning: Reference `fig5' on page 22 undefined on input line 261.
+
+<figures/phasescrise.jpg, id=98, 770.88pt x 547.2947pt>
+File: figures/phasescrise.jpg Graphic file (type jpg)
+<use figures/phasescrise.jpg>
+Package pdftex.def Info: figures/phasescrise.jpg  used on input line 265.
+(pdftex.def)             Requested size: 327.74895pt x 232.68484pt.
+<figures/tempszero_crise.jpg, id=99, 1027.84pt x 602.25pt>
+File: figures/tempszero_crise.jpg Graphic file (type jpg)
+<use figures/tempszero_crise.jpg>
+Package pdftex.def Info: figures/tempszero_crise.jpg  used on input line 273.
+(pdftex.def)             Requested size: 327.74895pt x 192.0439pt.
+[22] [23 <./figures/phasescrise.jpg> <./figures/tempszero_crise.jpg>]
+Overfull \hbox (1.9396pt too wide) in paragraph at lines 284--284
+[]\T1/cmr/bx/n/14.4 Les ac-teurs ins-ti-tu-tion-nels in-con-tour-nables de
+ []
+
+
+LaTeX Warning: Citation 'ministeredelinterieurDispositifORSEC' on page 24 undefined on input line 290.
+
+[24]
+
+LaTeX Warning: Reference `fig6' on page 25 undefined on input line 316.
+
+<figures/acteurs_crise.png, id=110, 436.63126pt x 242.40562pt>
+File: figures/acteurs_crise.png Graphic file (type png)
+<use figures/acteurs_crise.png>
+Package pdftex.def Info: figures/acteurs_crise.png  used on input line 320.
+(pdftex.def)             Requested size: 327.74895pt x 181.9591pt.
+[25 <./figures/acteurs_crise.png>]
+Overfull \hbox (0.83221pt too wide) in paragraph at lines 326--327
+\T1/cmr/m/n/10 ma-rins (BMPM). De la mÍme ma-niËre, en plus du dÈ-cou-page police-gendarmerie,
+ []
+
+[26]
+
+LaTeX Warning: Citation 'ministeredelinterieurQuEstceQu' on page 27 undefined on input line 337.
+
+
+LaTeX Warning: Reference `fig7' on page 27 undefined on input line 339.
+
+<figures/COD_plan.jpg, id=118, 3521.155pt x 2490.30376pt>
+File: figures/COD_plan.jpg Graphic file (type jpg)
+<use figures/COD_plan.jpg>
+Package pdftex.def Info: figures/COD_plan.jpg  used on input line 343.
+(pdftex.def)             Requested size: 327.74895pt x 231.79346pt.
+[27
+
+] [28 <./figures/COD_plan.jpg>]
+
+LaTeX Warning: Reference `fig8' on page 29 undefined on input line 356.
+
+<figures/EOLE33_support.jpg, id=126, 4698.55376pt x 2600.71625pt>
+File: figures/EOLE33_support.jpg Graphic file (type jpg)
+<use figures/EOLE33_support.jpg>
+Package pdftex.def Info: figures/EOLE33_support.jpg  used on input line 360.
+(pdftex.def)             Requested size: 327.74895pt x 181.39412pt.
+
+LaTeX Warning: Reference `fig8' on page 29 undefined on input line 366.
+
+[29 <./figures/EOLE33_support.jpg>]
+
+LaTeX Warning: Citation 'officequebecoisdelalanguefrancaiseGrandDictionnaireTerminologique' on page 30 undefined on input line 371.
+
+[30]
+
+LaTeX Warning: Reference `fig8' on page 31 undefined on input line 375.
+
+[31] [32]
+Underfull \hbox (badness 10000) in paragraph at lines 387--389
+
+ []
+
+
+Overfull \hbox (3.94257pt too wide) in paragraph at lines 392--393
+\T1/cmr/m/n/10 dants ou fonc-tion-naires d'autres di-rec-tions ou autres mi-nis-tËres. Ils ne connaissent
+ []
+
+
+LaTeX Warning: Reference `fig9' on page 33 undefined on input line 396.
+
+
+LaTeX Warning: Reference `fig8' on page 33 undefined on input line 396.
+
+[33
+
+]
+
+LaTeX Warning: Reference `fig9' on page 34 undefined on input line 400.
+
+<figures/EOLE33_A3.jpg, id=142, 3522.15875pt x 2490.30376pt>
+File: figures/EOLE33_A3.jpg Graphic file (type jpg)
+<use figures/EOLE33_A3.jpg>
+Package pdftex.def Info: figures/EOLE33_A3.jpg  used on input line 405.
+(pdftex.def)             Requested size: 3522.1502pt x 2490.29771pt.
+
+LaTeX Warning: Reference `fig:fig' on page 34 undefined on input line 414.
+
+<figures/21h.jpg, id=143, 3521.155pt x 2489.3pt>
+File: figures/21h.jpg Graphic file (type jpg)
+<use figures/21h.jpg>
+Package pdftex.def Info: figures/21h.jpg  used on input line 419.
+(pdftex.def)             Requested size: 167.32521pt x 118.28096pt.
+<figures/21h49.jpg, id=144, 3521.155pt x 2489.3pt>
+File: figures/21h49.jpg Graphic file (type jpg)
+<use figures/21h49.jpg>
+Package pdftex.def Info: figures/21h49.jpg  used on input line 425.
+(pdftex.def)             Requested size: 167.32521pt x 118.28096pt.
+<figures/21h51.jpg, id=145, 3521.155pt x 2489.3pt>
+File: figures/21h51.jpg Graphic file (type jpg)
+<use figures/21h51.jpg>
+Package pdftex.def Info: figures/21h51.jpg  used on input line 432.
+(pdftex.def)             Requested size: 167.32521pt x 118.28096pt.
+<figures/22h35.jpg, id=146, 3521.155pt x 2489.3pt>
+File: figures/22h35.jpg Graphic file (type jpg)
+<use figures/22h35.jpg>
+Package pdftex.def Info: figures/22h35.jpg  used on input line 438.
+(pdftex.def)             Requested size: 167.32521pt x 118.28096pt.
+[34] [35 <./figures/EOLE33_A3.jpg>]
+
+LaTeX Warning: Reference `fig11' on page 36 undefined on input line 452.
+
+
+LaTeX Warning: Reference `fig12' on page 36 undefined on input line 452.
+
+[36 <./figures/21h.jpg> <./figures/21h49.jpg> <./figures/21h51.jpg> <./figures/22h35.jpg>]
+<figures/ALVEO_SituationColombie.jpg, id=158, 447.5922pt x 447.3513pt>
+File: figures/ALVEO_SituationColombie.jpg Graphic file (type jpg)
+<use figures/ALVEO_SituationColombie.jpg>
+Package pdftex.def Info: figures/ALVEO_SituationColombie.jpg  used on input line 458.
+(pdftex.def)             Requested size: 276.00105pt x 275.86687pt.
+<figures/reseau_ferre.jpg, id=159, 3521.155pt x 2489.3pt>
+File: figures/reseau_ferre.jpg Graphic file (type jpg)
+<use figures/reseau_ferre.jpg>
+Package pdftex.def Info: figures/reseau_ferre.jpg  used on input line 465.
+(pdftex.def)             Requested size: 276.00105pt x 195.08382pt.
+ [37 <./figures/ALVEO_SituationColombie.jpg>] [38 <./figures/reseau_ferre.jpg>] [39
+
+] [40]
+
+LaTeX Warning: Reference `fig13' on page 41 undefined on input line 486.
+
+
+LaTeX Warning: Reference `fig9' on page 41 undefined on input line 489.
+
+
+LaTeX Warning: Reference `fig13' on page 41 undefined on input line 489.
+
+[41
+
+]
+<figures/schema_cube.jpg, id=176, 2490.30376pt x 2490.30376pt>
+File: figures/schema_cube.jpg Graphic file (type jpg)
+<use figures/schema_cube.jpg>
+Package pdftex.def Info: figures/schema_cube.jpg  used on input line 502.
+(pdftex.def)             Requested size: 276.00105pt x 275.9862pt.
+ [42] [43] [44 <./figures/schema_cube.jpg>]
+
+LaTeX Warning: Reference `fig14' on page 45 undefined on input line 515.
+
+<figures/uml.png, id=186, 455.301pt x 321.96284pt>
+File: figures/uml.png Graphic file (type png)
+<use figures/uml.png>
+Package pdftex.def Info: figures/uml.png  used on input line 519.
+(pdftex.def)             Requested size: 327.74895pt x 231.77376pt.
+[45
+
+]
+
+LaTeX Warning: Reference `fig15' on page 46 undefined on input line 525.
+
+
+LaTeX Warning: Reference `figure:figure' on page 46 undefined on input line 527.
+
+<figures/schema_outil.jpg, id=190, 2103.86pt x 2104.86375pt>
+File: figures/schema_outil.jpg Graphic file (type jpg)
+<use figures/schema_outil.jpg>
+Package pdftex.def Info: figures/schema_outil.jpg  used on input line 531.
+(pdftex.def)             Requested size: 241.49895pt x 241.58853pt.
+[46 <./figures/uml.png>]
+<figures/outil1.png, id=196, 333.099pt x 164.907pt>
+File: figures/outil1.png Graphic file (type png)
+<use figures/outil1.png>
+Package pdftex.def Info: figures/outil1.png  used on input line 540.
+(pdftex.def)             Requested size: 310.4979pt x 153.71922pt.
+<figures/outil2.png, id=197, 331.128pt x 165.564pt>
+File: figures/outil2.png Graphic file (type png)
+<use figures/outil2.png>
+Package pdftex.def Info: figures/outil2.png  used on input line 546.
+(pdftex.def)             Requested size: 310.4979pt x 155.24867pt.
+ [47 <./figures/schema_outil.jpg>] [48 <./figures/outil1.png> <./figures/outil2.png>]
+<figures/Menton_local.png, id=206, 676.02562pt x 487.32062pt>
+File: figures/Menton_local.png Graphic file (type png)
+<use figures/Menton_local.png>
+Package pdftex.def Info: figures/Menton_local.png  used on input line 567.
+(pdftex.def)             Requested size: 327.74895pt x 236.26842pt.
+
+
+LaTeX Warning: Reference `fig17' on page 49 undefined on input line 573.
+
+
+LaTeX Warning: Citation 'perrinVisualAnalysisInconsistencies2021' on page 49 undefined on input line 573.
+
+[49
+
+] [50 <./figures/Menton_local.png>] [51
+
+] [52] [53] [54] [55
+
+]
+
+LaTeX Warning: Empty bibliography on input line 623.
+
+[56
+
+] [57
+
+] [58]
+No file Rapport_de_stage_CD_final.lof.
+\tf@lof=\write5
+\openout5 = `Rapport_de_stage_CD_final.lof'.
+
+[59
+
+] [60
+
+]
+<gantt.png, id=246, 534.798pt x 100.57574pt>
+File: gantt.png Graphic file (type png)
+<use gantt.png>
+Package pdftex.def Info: gantt.png  used on input line 724.
+(pdftex.def)             Requested size: 534.79669pt x 100.57549pt.
+
+
+LaTeX Warning: File `plancheA0.jpg' not found on input line 729.
+
+
+c:/Users/cypri/Documents/M2 Carthag√©o/Rapport_de_stage_IHEMI/Rapport_de_stage_CD_final.tex:729: Package pdftex.def Error: File `plancheA0.jpg' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.729 ...cs[width = 0.95\textwidth]{plancheA0.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[61 <./gantt.png>] [62]
+Overfull \hbox (6.66412pt too wide) in paragraph at lines 765--765
+[]        \T1/cmtt/m/n/10 //APi qui renvoie les caractÈristiques des scÈnarios dispos[] 
+ []
+
+
+Overfull \hbox (1.4154pt too wide) in paragraph at lines 765--765
+[]        \T1/cmtt/m/n/10 response.send(results.rows[0].json_build_object.features);[] 
+ []
+
+[63]
+
+c:/Users/cypri/Documents/M2 Carthag√©o/Rapport_de_stage_IHEMI/Rapport_de_stage_CD_final.tex:769: Package pdfpages Error: Cannot find file `cdc_cartoweb.pdf'.
+
+See the pdfpages package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.769     \includepdf[pages=-]{cdc_cartoweb.pdf}
+                                                
+This error message was generated by an \errmessage
+command, so I can't give any explicit help.
+Pretend that you're Hercule Poirot: Examine all clues,
+and deduce the truth by order and method.
+
+
+c:/Users/cypri/Documents/M2 Carthag√©o/Rapport_de_stage_IHEMI/Rapport_de_stage_CD_final.tex:769: Package pdfpages Error: Cannot find file `-'.
+
+See the pdfpages package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.769     \includepdf[pages=-]{cdc_cartoweb.pdf}
+                                                
+(That was another \errmessage.)
+
+c:/Users/cypri/Documents/M2 Carthag√©o/Rapport_de_stage_IHEMI/Rapport_de_stage_CD_final.tex:769: Undefined control sequence.
+\AM@expand@range ...M@i \relax \@tempcntb =\AM@ii 
+                                                  \relax \ifnum \@tempcnta <...
+l.769     \includepdf[pages=-]{cdc_cartoweb.pdf}
+                                                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/cypri/Documents/M2 Carthag√©o/Rapport_de_stage_IHEMI/Rapport_de_stage_CD_final.tex:769: Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.769     \includepdf[pages=-]{cdc_cartoweb.pdf}
+                                                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/cypri/Documents/M2 Carthag√©o/Rapport_de_stage_IHEMI/Rapport_de_stage_CD_final.tex:769: Undefined control sequence.
+\AM@checkpagenumber #1->\ifnum #1>\AM@pagecount 
+                                                \relax \ifthenelse {\boolean...
+l.769     \includepdf[pages=-]{cdc_cartoweb.pdf}
+                                                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/cypri/Documents/M2 Carthag√©o/Rapport_de_stage_IHEMI/Rapport_de_stage_CD_final.tex:769: Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.769     \includepdf[pages=-]{cdc_cartoweb.pdf}
+                                                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+
+c:/Users/cypri/Documents/M2 Carthag√©o/Rapport_de_stage_IHEMI/Rapport_de_stage_CD_final.tex:769: Package pdfpages Error: Page 1 of `\AM@currentdocname ' does not exist.
+
+See the pdfpages package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.769     \includepdf[pages=-]{cdc_cartoweb.pdf}
+                                                
+You have set a wrong page number in the `pages' option. Document 
+`\AM@currentdocname ' does not have 1 pages.
+
+c:/Users/cypri/Documents/M2 Carthag√©o/Rapport_de_stage_IHEMI/Rapport_de_stage_CD_final.tex:769: Undefined control sequence.
+\AM@checkpagenumber #1->\ifnum #1>\AM@pagecount 
+                                                \relax \ifthenelse {\boolean...
+l.769     \includepdf[pages=-]{cdc_cartoweb.pdf}
+                                                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/cypri/Documents/M2 Carthag√©o/Rapport_de_stage_IHEMI/Rapport_de_stage_CD_final.tex:769: Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.769     \includepdf[pages=-]{cdc_cartoweb.pdf}
+                                                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+[64] [65] (Rapport_de_stage_CD_final.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                Rapport_de_stage_CD_final
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'Rapport_de_stage_CD_final.run.xml'.
+\openout1 = `Rapport_de_stage_CD_final.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 14592 strings out of 475389
+ 273881 string characters out of 2777000
+ 1032887 words of memory out of 3000000
+ 35773 multiletter control sequences out of 15000+600000
+ 482318 words of font info for 50 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 67i,9n,77p,2668b,1757s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\cypri\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk> <C:\Users\cypri\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\cypri\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt0800.pk> <C:\Users\cypri\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\cypri\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\cypri\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1000.pk> <C:\Users\cypri\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0800.pk> <C:\Users\cypri\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\cypri\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0700.pk> <C:\Users\cypri\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\cypri\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\cypri\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk> <C:\Users\cypri\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk>
+Output written on Rapport_de_stage_CD_final.pdf (68 pages, 55586421 bytes).
+PDF statistics:
+ 877 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 131 words of extra memory for PDF output out of 10000 (max. 10000000)
+
